@@ -519,8 +519,3 @@ README.md
 
 ---
 
-## Author
-
-**Name:** Your Name
-**Course:** Your Course
-**Task:** Exploratory Data Analysis (EDA)
